@@ -39,6 +39,7 @@ next-env.d.ts
 /dist/
 /.wrangler/
 # Checkout-local execution profile and tool state; never publish them.
+/.openai/
 /.sites-runtime/
 /.agents/
 /.codex/
